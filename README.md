@@ -1,5 +1,6 @@
 # Excel Dashboard
 
+![](Dashboard - Copy.png)
 ![](Dashboard.png)
 ![](Employees_overview.png)
 ![](Employees_details.png)
